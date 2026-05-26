@@ -6,5 +6,5 @@ topics covered
 -> use of useLoaderData, useRouterLoaderData hook and json from react-router-dom
 -> NavLink, Link component and useNavigate hook from react-router-dom
 -> use useRouteError hook from react-router-dom
--> useSubmit hook from react-router-dom
+-> useSubmit, useNavigation, useActionData hook from react-router-dom
 -> react inbuilt action and loader functions
